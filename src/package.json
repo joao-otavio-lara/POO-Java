@@ -1,0 +1,22 @@
+
+{
+    "name": "programacaodesktop",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "javac": "javac Main.java",
+      "java": "java Main.java",
+      "start": "npm run javac & npm run java"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Matheus-Sleutjes/ProgramacaoDesktop.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Matheus-Sleutjes/ProgramacaoDesktop/issues"
+    },
+    "homepage": "https://github.com/Matheus-Sleutjes/ProgramacaoDesktop#readme"
+  }
+  
